@@ -1,0 +1,77 @@
+body  {
+	padding: 5%;
+	margin: 5%;
+}
+
+h1 {
+	font-family: myriad pro;
+	font-size: 65px;
+	text-align: center;
+	font-weight: 450;
+}
+
+h2 {
+	font-family: myriad pro;
+	font-size: 40px;
+	text-align: center;
+	font-weight: 300;
+	color: #00aeef;
+}
+
+header {
+	text-align: center;
+}
+
+
+ul li{
+	list-style-type: none;
+	display: inline;
+	position: relative;
+}
+
+.menu {
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+	border-color: lightgrey;
+}
+
+.mid, .bot {
+	width: 47%;
+	display: inline-block;
+	padding-left: 15px;
+	border-top: 1px solid;
+	border-color: lightgrey;
+	padding-bottom: 16px;
+	padding: 15px;
+}
+
+
+.button {
+	background-color: #00aeef;
+	color: white;
+	border-radius: 15px;
+	padding: 8px;
+	text-decoration: none;
+	font-family: arial;
+}
+
+footer {
+	text-align: center;
+	margin-top: 6%;
+}
+
+.top {
+	display: inline-block;
+	padding: 15px;
+}
+
+.top p {
+	margin-right: 35%;
+	padding-right: 21px;
+}
+
+.top img {
+	float: right;
+	margin-top: 3%;
+	margin-right: 12%;
+}
